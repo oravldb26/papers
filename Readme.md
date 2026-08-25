@@ -6,6 +6,7 @@ Explore Oracle’s latest research and technical papers presented at VLDB.
 __Tuesday 13:45 – 15:15 Otis__
 
 __Tirthankar Lahiri__
+
 Senior Vice President, Mission-Critical Data and AI Engines
 
 ## Papers
