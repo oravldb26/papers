@@ -4,7 +4,9 @@ Explore Oracle’s latest research and technical papers presented at VLDB.
 
 ## Sponsor Talk: Trusted Agentic AI with Oracle AI Database
 __Tuesday 13:45 – 15:15 Otis__
+
 Tirthankar Lahiri
+
 Senior Vice President, Mission-Critical Data and AI Engines
 
 ## Papers
