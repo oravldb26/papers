@@ -1,4 +1,4 @@
-# ![Oracle at VLDB 2026 banner](/papers/assets/banner.png)
+# ![Oracle at VLDB 2026 banner](/papers/docs/assets/banner.png)
 
 Explore Oracle’s latest research and technical papers presented at VLDB.
 
