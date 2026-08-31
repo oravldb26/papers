@@ -11,7 +11,7 @@ Senior Vice President, Mission-Critical Data and AI Engines
 
 ## Papers
 
-### [Real-time SQL Plan Management in Oracle](PASTE_PAPER_URL_HERE)
+### [Real-time SQL Plan Management in Oracle](http://arxiv.org/abs/2608.27758)
 __Tuesday 10:45 – 12:15 Marina Ballroom I__
 
 _Sunil Chakkappen · Mohamed Ziauddin · Hong Su · Shreya Kunjibettu · Nigel Bayliss_
